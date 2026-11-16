@@ -1,0 +1,21 @@
+
+{
+  "name": "saucedemo-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de automacao de testes UI e E2E com Cypress - SauceDemo",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "qa",
+    "automacao",
+    "testes-e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
